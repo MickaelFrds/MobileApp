@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MIAM\'S</string>
+    
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Accueil</string>
+    <string name="home_page_first_section_">Nouveauté</string>
+
+    <!-- Page de collection-->
+    <string name="Collection_page_title">Mon carnet</string>
+
+    <!-- Page d'ajout restaurant-->
+    <string name="add_restaurant_page_tittle">Ajout d\'un restaurant</string>
+    <string name="add_restaurant_page_upload_button">Charger une image</string>
+    <string name="add_restaurant_page_name_input">@string/item_restaurant_name</string>
+    <string name="add_restaurant_page_description_input">@string/item_restaurant_description</string>
+    <string name="add_restaurant_page_adresse_input">@string/item_restaurant_adresse</string>
+    <string name="add_restaurant_page_horaire_input">@string/item_restaurant_horaire</string>
+
+    <string name="add_restaurant_page_confirm_input">Ajouter</string>
+
+    <!-- Fenetre de description -->
+    <string name="desciption_page_name">Nom du restaurant</string>
+    <string name="desciption_page_description_tittle">Description</string>
+    <string name="desciption_page_description_content">Texte de description</string>
+    <string name="desciption_page_adresse_tittle">Adresse</string>
+    <string name="desciption_page_adresse_content">Texte des adresse</string>
+    <string name="desciption_page_horaire_tittle">Horaire</string>
+    <string name="desciption_page_horaire_content">Texte des horaires</string>
+
+    <!-- custom restaurant-->
+    <string name="item_restaurant_name">Nom du restaurant</string>
+    <string name="item_restaurant_description">Description</string>
+    <string name="item_restaurant_adresse">Adresse</string>
+    <string name="item_restaurant_horaire">Horaire</string>
+</resources>
