@@ -1,35 +1,32 @@
 <resources>
-    <string name="app_name">MIAM\'S</string>
+    <string name="app_name">Bibliothèque</string>
     
     <!-- Page d'accueil -->
     <string name="home_page_title">Accueil</string>
     <string name="home_page_first_section_">Nouveauté</string>
 
     <!-- Page de collection-->
-    <string name="Collection_page_title">Mon carnet</string>
+    <string name="Collection_page_title">Ma Bilbliothèque</string>
 
-    <!-- Page d'ajout restaurant-->
-    <string name="add_restaurant_page_tittle">Ajout d\'un restaurant</string>
-    <string name="add_restaurant_page_upload_button">Charger une image</string>
-    <string name="add_restaurant_page_name_input">@string/item_restaurant_name</string>
-    <string name="add_restaurant_page_description_input">@string/item_restaurant_description</string>
-    <string name="add_restaurant_page_adresse_input">@string/item_restaurant_adresse</string>
-    <string name="add_restaurant_page_horaire_input">@string/item_restaurant_horaire</string>
+    <!-- Page d'ajout book-->
+    <string name="add_book_page_title">Ajout d\'un livre</string>
+    <string name="add_book_page_upload_button">Charger une image</string>
+    <string name="add_book_page_name_input">@string/item_book_name</string>
+    <string name="add_book_page_description_input">@string/item_book_description</string>
+    <string name="add_book_page_author_input">@string/item_book_author</string>
 
-    <string name="add_restaurant_page_confirm_input">Ajouter</string>
+    <string name="add_book_page_confirm_input">Ajouter</string>
 
     <!-- Fenetre de description -->
-    <string name="desciption_page_name">Nom du restaurant</string>
-    <string name="desciption_page_description_tittle">Description</string>
+    <string name="desciption_page_name">Nom du livre</string>
+    <string name="desciption_page_author">Auteur</string>
+    <string name="desciption_page_description_title">Description</string>
     <string name="desciption_page_description_content">Texte de description</string>
-    <string name="desciption_page_adresse_tittle">Adresse</string>
-    <string name="desciption_page_adresse_content">Texte des adresse</string>
-    <string name="desciption_page_horaire_tittle">Horaire</string>
-    <string name="desciption_page_horaire_content">Texte des horaires</string>
 
-    <!-- custom restaurant-->
-    <string name="item_restaurant_name">Nom du restaurant</string>
-    <string name="item_restaurant_description">Description</string>
-    <string name="item_restaurant_adresse">Adresse</string>
-    <string name="item_restaurant_horaire">Horaire</string>
+
+
+    <!-- custom book-->
+    <string name="item_book_name">Nom du livrre</string>
+    <string name="item_book_description">Description</string>
+    <string name="item_book_author">Auteur</string>
 </resources>

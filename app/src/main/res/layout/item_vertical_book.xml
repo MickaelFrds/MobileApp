@@ -26,28 +26,20 @@
     </androidx.cardview.widget.CardView>
 
     <TextView
-            android:id="@+id/name_restaurant"
+            android:id="@+id/name_book"
             android:layout_width="wrap_content"
+            app:layout_constraintHeight_max="150dp"
+            app:layout_constraintWidth_max="150dp"
             android:layout_height="wrap_content"
             app:layout_constraintBottom_toBottomOf="@+id/cardView"
             app:layout_constraintTop_toTopOf="@id/cardView"
             app:layout_constraintStart_toEndOf="@+id/cardView"
             android:layout_marginStart="@dimen/default_margin"
-            android:text="@string/item_restaurant_name"
-            style="@style/SubtittleTextStyle"
+            android:text="@string/item_book_name"
+            style="@style/SubtitleTextStyle"
             />
 
-    <ImageView
-            android:id="@+id/unlike_icon"
-            android:layout_width="50dp"
-            android:layout_height="30dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginRight="@dimen/default_margin"
-            android:src="@drawable/ic_unlike"
 
-            />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
