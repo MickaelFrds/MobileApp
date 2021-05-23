@@ -40,14 +40,14 @@ J'ai réalisé cette application portant sur les livres d'une Bibliothèque. Vou
 
 
 
-### Écran Home
+### Écran Accueil
 - Deux liste Dynamique : une au format verticale  et une au format horizentale.
 - Recycler view horizentale ou verticale pour une meilleure présentation
 - Posibilité d'ouvrir la déscription.
 
-
+![](Capture/Accueil.png)
 
 ### Écran des détails
 - une fenetre surgissante ( Un Popup).
-
 - Une activitée avec les détails de chaque article
+![](Capture/Pop_up.png)
