@@ -32,9 +32,9 @@ J'ai réalisé cette application portant sur les livres d'une Bibliothèque. Vou
 
 
 ### Dans toute l'application
--Utilisation de l'API REST Open Library
--Ecran d'acceuil avec un choix de livre à decouvrir
--PopUp de description du livre 
+- Utilisation de l'API REST Open Library
+- Ecran d'acceuil avec un choix de livre à decouvrir
+- PopUp de description du livre 
 
 
 
@@ -49,5 +49,5 @@ J'ai réalisé cette application portant sur les livres d'une Bibliothèque. Vou
 
 ### Écran des détails
 - une fenetre surgissante ( Un Popup).
-- Icon close pour fermer la page et revenir sur le home
+
 - Une activitée avec les détails de chaque article
