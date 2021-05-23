@@ -50,4 +50,5 @@ J'ai réalisé cette application portant sur les livres d'une Bibliothèque. Vou
 ### Écran des détails
 - une fenetre surgissante ( Un Popup).
 - Une activitée avec les détails de chaque article
+
 ![](Capture/Pop_up.png)
